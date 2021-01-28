@@ -5,7 +5,7 @@ on:
     branches:
       - master
 env:
-  AZURE_SUBSCRIPTION_ID: 7c793f65-5192-45b9-862f-698414ecf392   # set this to your Azure Subscription Id
+  AZURE_SUBSCRIPTION_ID: 7c793f65-5192-45b9-862f-698414ecf392   # set this to your Azure Subscription Id2
   AZURE_RESOURCE_GROUP: GitHubActionExercise-rg   # set this to your target resource group
 
 jobs:
